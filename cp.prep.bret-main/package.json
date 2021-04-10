@@ -1,0 +1,14 @@
+{
+  "name": "check-prep-17-7",
+  "version": "1.0.0",
+  "description": "Checkpoint Prep - Henry Challenge 2.0",
+  "main": "checkpoint.js",
+  "scripts": {
+    "test": "jest --collectCoverage=false"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^26.1.0"
+  }
+}
